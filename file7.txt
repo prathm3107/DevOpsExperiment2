@@ -1,1 +1,2 @@
 This is file 7 in master branch
+Changes made in file 7 in master branch
